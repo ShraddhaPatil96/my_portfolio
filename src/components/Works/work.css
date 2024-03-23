@@ -1,0 +1,97 @@
+#works {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 11rem auto;
+}
+
+.workTitle {
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.workDesc {
+    font-weight: 400;
+    font-size: 1rem;
+    max-width: 50rem;
+    padding: 0.6rem 3rem;
+}
+
+.workList {
+    margin: 1.5rem;
+    width: 100vw;
+    max-width: 80%;
+    text-align: left;
+}
+
+.project {
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(50, 50, 50);
+}
+
+.projectText>h2 {
+    font-size: 1.6rem;
+    font-weight: 300;
+    margin: 1rem;
+    padding: 0 1rem;
+    
+}
+
+.projectText>p {
+    font-size: 0.9rem;
+    font-weight: 100;
+    margin: 1rem;
+    padding: 0 1rem;
+
+}
+
+.projectHeading {
+    text-align: center;
+    margin: 1rem;
+    padding: 0 1rem;
+}
+
+.certHeading {
+    text-align: center;
+    margin: 1rem;
+    padding: 1.4rem 1rem;
+}
+
+.certificate {
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: rgb(50, 50, 50);
+}
+
+.certificateText>h2 {
+    font-size: 2rem;
+    font-weight: 300;
+    margin: 1rem;
+    padding: 0 1rem;
+}
+
+.certificateText>p {
+    font-size: 0.9rem;
+    font-weight: 100;
+    margin: 1rem;
+    padding: 0 1rem;
+
+}
+
+.heading1 {
+    text-align: center;
+    margin: 1rem;
+    padding: 1.5rem 1rem;
+}
